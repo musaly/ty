@@ -13,7 +13,6 @@
     git config --global user.email "942273632@qq.com"
     ssh-keygen -t rsa -C "942273632@qq.com"
     cat ~/.ssh/id_rsa.pub
-
     ```
   - 
   - 查看是否有历史用户登录记录
