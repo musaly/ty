@@ -75,6 +75,8 @@ cat ~/.ssh/id_rsa.pub
 ```
 
 
-##
+## github加速访问
+- vpn
+- UU加速器.学术资源加速
 
 
