@@ -8,6 +8,14 @@
 - 前置准备
   - git软件，git在线网站，创建远程库
   - 安装配置ssh登录，配置本地设置
+    ```git
+    git config --global user.name "musaly"
+    git config --global user.email "942273632@qq.com"
+    ssh-keygen -t rsa -C "942273632@qq.com"
+    cat ~/.ssh/id_rsa.pub
+
+    ```
+  - 
   - 查看是否有历史用户登录记录
 - 初始化到本地库
 - 连接远程库
