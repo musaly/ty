@@ -53,7 +53,7 @@
 - 开发模式和生产模式的控制
 - vue生产模式下的跨域问题
   - 思路
-  - nginx 
+  - nginx .
 
 # markdown目录
 - CSS 
